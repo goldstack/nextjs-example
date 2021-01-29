@@ -1,0 +1,15 @@
+{
+  "projectName": "nextjs-example",
+  "packages": [
+    {
+      "packageName": "app-nextjs",
+      "templateReference": {
+        "templateName": "app-nextjs"
+      }
+    }
+  ],
+  "rootTemplateReference": {
+    "templateName": "yarn-pnp-monorepo"
+  },
+  "createdAt": "2021-01-29T19:45:11.283Z"
+}
