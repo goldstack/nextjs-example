@@ -2,7 +2,7 @@
 
 This is a sample Next.js project using the [Goldstack Open Source libraries](https://github.com/goldstack/goldstack-lib#goldstack-template-framework).
 
-⚠ Note that this project may not use the latest version of libraries and configurations. To generate a starter project with the latest updates, please go to [goldstack.part](https://goldstack.party).
+⚠ Note that this project may not use the latest version of libraries and configurations. To generate a starter project with the latest updates, please go to [goldstack.party](https://goldstack.party).
 
 ---
 
